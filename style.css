@@ -24,7 +24,7 @@ main{
     border: 2px solid white;
     border-radius: 1rem;
     box-shadow: 2px 4px 4px 4px black;
-    background-color: rgb(191, 142, 240);
+    background-color: yellow;
 }
 .card h1{
     color: black;
